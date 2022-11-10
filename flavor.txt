@@ -1,0 +1,6 @@
+1 Chocolate_cupcake 200.0
+2 Strawberry_cupcake 200.0
+3 Red_berry_cupcake 300.0
+4 Orange_cupcake 200.0
+7 rrr 99.0
+1 weaam 2000.0
